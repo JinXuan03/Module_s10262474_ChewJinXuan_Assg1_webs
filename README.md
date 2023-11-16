@@ -1,4 +1,3 @@
 # Assignment1
-This is the first assignment
-
+# My Project Name is "Healthy Food Lifestyle"
 
