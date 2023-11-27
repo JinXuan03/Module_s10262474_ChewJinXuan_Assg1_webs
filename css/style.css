@@ -129,11 +129,15 @@ header.active .navbar a{
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-image: url("/Module_s10262474_ChewJinXuan_Assg1_webs/images/green-leaves-background.jpg");
+    /*background-image: url("/Module_s10262474_ChewJinXuan_Assg1_webs/images/green-leaves-background.jpg"); */
+    /*background-image: url("/Module_s10262474_ChewJinXuan_Assg1_webs/images/green-leaves-background.jpg"); */
+    background-image: url("/Module_s10262474_ChewJinXuan_Assg1_webs/css/green-leaves_background.jpg");
+    /*background-image: url(./images/green-leaves-background.jpg);*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
+
 .about h1{
     font-size: 2.5rem;
     color: #fff;
@@ -278,4 +282,100 @@ form {
     border-radius: 4px;
     cursor: pointer;
   }
+  .copyright{
+    padding: 20px;
+    text-align: center;
+  }
+
+  @media only screen and (max-width: 767px) {
+    body {
+      font-size: 14px;
+    }
+  
+    .container {
+      width: 100%;
+    }
+  
+    header .navbar {
+      flex-direction: column;
+    }
+  
+    #image-container {
+      width: 100%;
+    }
+  
+    #image-container img {
+        width: 15%;
+        height: auto;
+        float: right;
+      }
+  
+    .home-img img {
+      width: 100%;
+      height: auto;
+    }
+  
+    .about-container,
+    .menu-container,
+    .customer-container {
+      flex-direction: column;
+    }
+  
+    .about-box,
+    .menu-box,
+    .box {
+      width: 100%;
+    }
+  
+    .booking form {
+      width: 100%;
+    }
+  }
+  @media (max-width: 1200px){
+    header{
+        padding: 11px 4%;
+    }
+    #image-container{
+        display: initial;
+        
+        
+      }
+      header.active #image-container{
+        color: #fff;
+      }
+      header .navbar{
+        position: absolute;
+        top: -500px;
+        left: 0;
+        right: 0;
+        display: flex;
+        flex-direction: column;
+        background: var(--second-color);
+        box-shadow: 0 4px 4px rgb(14 55 54 / 15%);
+        transition: 0.2s ease;
+        text-align: right;
+      }
+      .navbar.active{
+        top: 100%;
+      }
+      .navbar a{
+        padding: 1.5rem;
+        display: block;
+        color: #fff;
+      }
+      
+      
+    }
+    
+
+    
+    
+  
+
+  
+
+    
+
+    
+  
 
