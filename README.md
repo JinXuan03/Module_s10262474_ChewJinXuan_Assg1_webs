@@ -16,7 +16,7 @@ Feature 4 - The fourth feature is the Customer page where the user will click on
 Feature 5 - The fifth feature is the booking page where the user will click on the button and will show the booking form and the user will be able to enter their personal details in it and book a date and timing for the restaurant.
 
 <h1>Features Left to Implement</h1>
-None
+None.
 
 # Technologies Used
 None.
