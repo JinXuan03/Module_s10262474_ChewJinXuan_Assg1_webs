@@ -568,7 +568,7 @@ header.active .navbar a{
         
     }
 
-    /* Media query for larger screens */
+   
     /* Media query for larger screens */
       @media (max-width: 1200px){
         header{

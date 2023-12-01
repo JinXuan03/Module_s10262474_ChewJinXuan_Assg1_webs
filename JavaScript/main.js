@@ -8,7 +8,7 @@ window.addEventListener('scroll', () => {
     header.classList.toggle('active', window.scrollY > 0);
 });
 
-// Handling click event on the menu icon to toggle the 'active' class on the navbar
+// This Handling click event on the menu icon to toggle the 'active' class on the navbar
 menu.onclick = () => {
   navbar.classList.toggle('active')
 }
