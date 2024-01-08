@@ -9,11 +9,11 @@ As a user type, I want to provide all the customer/fans a healthy food to give t
 
 <h1>Features</h1>
 Existing Features:
-Feature 1 - The first feature is the home page where it allows the users to click on the home button and have a overview what is the website about and it is about the overall brief about healthy food lifestyle website.
-Feature 2 - The second feature is the about page where it allows the users to be able to click on the about button and navigate to the page and it will show the story, introduction, dishes and cooking.
-Feature 3 - The third feature is the food menu page where the user will click on it and it will show a list of healthy food image and name example salad and the price.
-Feature 4 - The fourth feature is the Customer page where the user will click on the button and will show the customer feedback about the restaurant and the star rate for their own experience with this restaurant.
-Feature 5 - The fifth feature is the booking page where the user will click on the button and will show the booking form and the user will be able to enter their personal details in it and book a date and timing for the restaurant.
+*Feature 1 - The first feature is the home page where it allows the users to click on the home button and have a overview what is the website about and it is about the overall brief about healthy food lifestyle website.
+*Feature 2 - The second feature is the about page where it allows the users to be able to click on the about button and navigate to the page and it will show the story, introduction, dishes and cooking.
+*Feature 3 - The third feature is the food menu page where the user will click on it and it will show a list of healthy food image and name example salad and the price.
+*Feature 4 - The fourth feature is the Customer page where the user will click on the button and will show the customer feedback about the restaurant and the star rate for their own experience with this restaurant.
+*Feature 5 - The fifth feature is the booking page where the user will click on the button and will show the booking form and the user will be able to enter their personal details in it and book a date and timing for the restaurant.
 
 <h1>Features Left to Implement</h1>
 None.
