@@ -41,7 +41,7 @@ iii. Try to submit the form with the date with no input in it and verify that th
 # Credits
 <h2>Content</h2>
 <h2>Media</h2>
-1. Caesar image - https://seasaltsavorings.com/caesar-salad-with-homemade-caesar-dressing/
+*1. Caesar image - https://seasaltsavorings.com/caesar-salad-with-homemade-caesar-dressing/
 2. Introduction-icon -  https://www.flaticon.com/free-icon/cooking_1830767
 3. Story-icon - https://thenounproject.com/browse/icons/term/story/
 4. Cooking-icon - https://www.flaticon.com/free-icon/cooking_1830767
