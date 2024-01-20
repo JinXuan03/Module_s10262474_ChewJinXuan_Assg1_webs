@@ -42,23 +42,23 @@ iii. Try to submit the form with the date with no input in it and verify that th
 <h2>Content</h2>
 <h2>Media</h2>
 *1. Caesar image - https://seasaltsavorings.com/caesar-salad-with-homemade-caesar-dressing/
-2. Introduction-icon -  https://www.flaticon.com/free-icon/cooking_1830767
-3. Story-icon - https://thenounproject.com/browse/icons/term/story/
-4. Cooking-icon - https://www.flaticon.com/free-icon/cooking_1830767
-5. dishes-icon - https://www.flaticon.com/free-icon/dish_282465
-6. Caesar-Salad - https://www.delish.com/cooking/recipe-ideas/a40231391/chicken-caesar-salad-recipe/
-7. Caprese-Salad - https://downshiftology.com/recipes/caprese-salad/
-8. Cobb-Salad - https://www.delish.com/cooking/recipe-ideas/recipes/a58703/best-cobb-salad-recipe/
-9. Greek-Salad - https://unsplash.com/photos/sliced-vegetables-on-white-ceramic-plate-FfLlgRfL5l8
-10. Nicoise-Salad - https://unsplash.com/photos/nuts-and-parsley-in-a-bowl-B-DrrO3tSbo
-11. Waldorf-Salad - https://downshiftology.com/recipes/waldorf-salad/
-12. Customer-1 - https://unsplash.com/photos/closeup-photography-of-woman-smiling-mEZ3PoFGs_k
-13. Customer-2 - https://unsplash.com/photos/man-standing-near-white-wall-d1UPkiFd04A
-14. Customer-3 - https://unsplash.com/photos/woman-standing-near-blue-steel-gate-O3ymvT7Wf9U
-15. cart - https://www.vecteezy.com/vector-art/4798846-shopping-cart-logo-or-icon-design
-16. Option-bar - https://www.pngwing.com/en/free-png-mahki
-17. Healthy_video - https://youtu.be/1pX_BWgvoN0?si=CbXvIJ7OFaYhgsti
-18. booking-image - https://depositphotos.com/cn/photos/cooking.html
-19. Green-leaves_background - https://pngtree.com/freebackground/green-leaves-have-dark-backgrounds_2672872.html
-20. star - https://www.istockphoto.com/hk/%E5%90%91%E9%87%8F/%E4%BA%94%E9%BB%9E%E6%98%9F%E5%90%91%E9%87%8F%E5%9C%96%E7%A4%BA%E9%9A%94%E9%9B%A2%E9%87%91%E6%98%9F%E8%A9%95%E7%B4%9A%E5%B9%B3%E6%95%B8%E7%AC%A6%E8%99%9F-%E5%90%91%E9%87%8F-gm1295967422-389527291
+*2. Introduction-icon -  https://www.flaticon.com/free-icon/cooking_1830767
+*3. Story-icon - https://thenounproject.com/browse/icons/term/story/
+*4. Cooking-icon - https://www.flaticon.com/free-icon/cooking_1830767
+*5. dishes-icon - https://www.flaticon.com/free-icon/dish_282465
+*6. Caesar-Salad - https://www.delish.com/cooking/recipe-ideas/a40231391/chicken-caesar-salad-recipe/
+*7. Caprese-Salad - https://downshiftology.com/recipes/caprese-salad/
+*8. Cobb-Salad - https://www.delish.com/cooking/recipe-ideas/recipes/a58703/best-cobb-salad-recipe/
+*9. Greek-Salad - https://unsplash.com/photos/sliced-vegetables-on-white-ceramic-plate-FfLlgRfL5l8
+*10. Nicoise-Salad - https://unsplash.com/photos/nuts-and-parsley-in-a-bowl-B-DrrO3tSbo
+*11. Waldorf-Salad - https://downshiftology.com/recipes/waldorf-salad/
+*12. Customer-1 - https://unsplash.com/photos/closeup-photography-of-woman-smiling-mEZ3PoFGs_k
+*13. Customer-2 - https://unsplash.com/photos/man-standing-near-white-wall-d1UPkiFd04A
+*14. Customer-3 - https://unsplash.com/photos/woman-standing-near-blue-steel-gate-O3ymvT7Wf9U
+*15. cart - https://www.vecteezy.com/vector-art/4798846-shopping-cart-logo-or-icon-design
+*16. Option-bar - https://www.pngwing.com/en/free-png-mahki
+*17. Healthy_video - https://youtu.be/1pX_BWgvoN0?si=CbXvIJ7OFaYhgsti
+*18. booking-image - https://depositphotos.com/cn/photos/cooking.html
+*19. Green-leaves_background - https://pngtree.com/freebackground/green-leaves-have-dark-backgrounds_2672872.html
+*20. star - https://www.istockphoto.com/hk/%E5%90%91%E9%87%8F/%E4%BA%94%E9%BB%9E%E6%98%9F%E5%90%91%E9%87%8F%E5%9C%96%E7%A4%BA%E9%9A%94%E9%9B%A2%E9%87%91%E6%98%9F%E8%A9%95%E7%B4%9A%E5%B9%B3%E6%95%B8%E7%AC%A6%E8%99%9F-%E5%90%91%E9%87%8F-gm1295967422-389527291
 <h2>Acknowledgements</h2>
