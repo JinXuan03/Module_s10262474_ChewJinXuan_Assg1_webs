@@ -316,71 +316,8 @@ header.active .navbar a{
       }
 
     
-    /* Styling for the booking form section */
-    #bookingform{
-        min-height: 100vh;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    /* Styling for the booking and container */
-
-    .booking, .container{
-        background-color: #fff;
-        width: 100%;
-    }
-    .booking{
-        background-color: yellowgreen;
-    }
-
-    /* Styling for the form container and groups */
-    .form-container .form-group{
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-
-    }
-
-    /* Styling for the image in the form */
-    .image {
-        text-align: center;
-        margin-bottom: 20px;
-    }
-
-    .image img{
-        display: block;
-        margin: 0 auto;
-    }
-
-    .form-container .Date{
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-
-    }
-
-
-    .form-container .Detail{
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-
-    }
-
-
-    .form-groups {
-        text-align: center;
-        margin-top: 10px; 
-    }
+   
     
-    .form-groups label {
-        display: block;
-    }
-    
-    button {
-        display: block;
-        margin: 0 auto;
-    }
 
     /* Media query for small screens */
     @media only screen and (max-width: 767px) {
